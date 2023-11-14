@@ -5,6 +5,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import ru.jf17.spring.context.city.City;
 import ru.jf17.spring.context.config.CityConfiguration;
 
+//Java only
 //recommended method
 public class JavaConfiguredCity {
     public static void main(String[] args) {
