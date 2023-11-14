@@ -1,1 +1,1 @@
-# spring-context
+# Java Spring App without Spring Boot
